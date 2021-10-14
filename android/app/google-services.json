@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068030042008",
+    "project_id": "news-myexam",
+    "storage_bucket": "news-myexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068030042008:android:0de66795adbd372241d5ed",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068030042008-m288k52ndk0k4u8shcirocesni2rpuia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FKXkzoNb_teTRAaZRivvVmTV-TdZ3vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068030042008-m288k52ndk0k4u8shcirocesni2rpuia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
